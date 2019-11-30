@@ -15,6 +15,8 @@ Applied dynamical systems at Clarkson University. Topics of interest:
   - braid dynamics: modeling trajectories using braid groups
   - topological data analysis
   
+$$\lim_{N\to\infty}\sum_{n=0}^{N-1} [\mathbb{K}^n f](x)$$
+  
 News:
 
   * Fall 2019: Teaching MA533 Ordinary Differential Equations and MA321 Advanced calculus
