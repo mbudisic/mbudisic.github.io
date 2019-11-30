@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Marko Budišić's Research Group"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,108 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Applied dynamical systems at Clarkson University. Topics of interest:
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  - Koopman Mode Decomposition of dynamical systems
+  - transport of material and mixing in ocean flows
+  - braid dynamics: modeling trajectories using braid groups
+  - topological data analysis
+  
+News:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+  * Fall 2019: Teaching MA533 Ordinary Differential Equations and MA321 Advanced calculus
+  * May 2019: SIAM DS19 Minisymposium Presentation (PDF)
+  * May 2019: SIAM DS19 Minitutorial on Koopman/DMD Presentation (PDF)
+  * May 2019: Awarded Clarkson University Outstanding New Teacher Award
+  * Fall 2018: I am on a family leave as we welcomed our first son, Luka.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Sep 2018
+Dr. Angelynn Alvarez from SUNY Potsdam and I have been awarded a small grant from MSRI to start a Potsdam Math Circle in 2019.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Jun 2018
+Attended NSF CBMS “Harmonic Analysis” meeting at Iowa State University
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+May 2018
+Attended PICMath 2018 workshop at Brigham Young University
 
-**Markdown generator**
+Apr 2018
+Accepted into PICMath 2018 program with a grant to develop industrial math course for Spring ’19.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Mar 2018
+Awarded inaugural Solinsky Ignite Pilot Grant (with B. Helenbrook and P. Piperni)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Jan 2018
+Organized JMM2018 Project NExT panel on Incorporating Social Justice into Math Curriculum, with Drs. Hill, Hobson, and Thompson. Panelists: Drs. Adiredja, Crisman, and Khadjavi. Materials: http://bit.ly/2CZjX5M
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Dec 2017
+Gave a talk at NOLTA2017
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Nov 2017
+Gave a talk at the Institute for STEM Ed seminar titled “My experiences with Project NExT”
+
+Nov 2017
+FAQ for those interested in MA330 in the Spring semester
+
+Sep 2017
+Appointed (by courtesy) to the Assistant Professor at Institute for STEM Education.
+
+Sep 2017
+Visiting the old stomping grounds of Santa Barbara, CA for the Set Oriented Numerics Workshop
+
+Aug 2017
+I've been added to the list of Math Alliance mentors. Math Alliance goals are to increase participation in math sciences. (my mentor profile)
+
+Aug 2017
+Clarkson's Math Wall and Twitter accounts are now set-up: #CUMathWall @ClarksonMath
+
+Jul 2017
+Attended MAA Mathfest 2017 with Project NExT Blue’17. An eye-opening experience.
+
+Jul 2017
+A dead link to demo dataset in Koopman code has been fixed. Old posts (hosted at Wordpress) are back: Writings.
+
+Jun 2017
+Joined Project NExT Blue’17 cohort.
+
+Jun 2017
+Our team-written review “Frontiers of Chaotic Advection” in honor of the late H. Aref and S. Meleshko has finally been published: Rev. Mod. Phys
+
+May 2017
+It was great to meet all the new people at SIAM DS17. If you want to stay in touch, feel free to connect on ResearchGate or just shoot me an e-mail.
+
+May 2017
+Travel to SIAM DS17 conference (talk at Primrose B, Tue 1.15p, co-organizer of minisymposia MS94 and MS100)
+
+Apr 2017
+Spoke at Clarkson Center for Complex Systems Science (C3S2) Seminar
+
+Apr 2017
+Spoke at Chemical and Biochemical Engineering Department Colloquium (Clarkson)
+
+Apr 2017
+FAQ for those interested in MA330 in the Fall semester
+
+Mar 2017
+Speaking at Clarkson University Mechanical and Aerospace Seminar
+Friday, Mar 10, 2pm, CAMP176
+
+Feb 2017
+Traveling to SIAM CSE 17 in Atlanta (talk)
+
+Jan 2017
+More info on MA725 now available!
+
+Dec 2016
+Spring teaching: MA330 and MA725
+
+Aug 2016
+Paper in DCDS-S published
+
+Aug 2016
+MA330 Info Page
+
+Jul 2016
+Moved to Clarkson
+
+May 2016
+Mesochronic Analysis paper updated on arXiv
