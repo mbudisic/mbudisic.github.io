@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Internal Wiki"
+    url: https://people.clarkson.edu/~mbudisic/dokuwiki
+    
   - title: "Guide"
     url: /markdown/
