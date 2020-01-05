@@ -58,8 +58,9 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
+    margin-top: 0;
+    font-size: $type-size-6;
+    clear: both; /* make sure floats don't bleed through*/
 
   & + p {
     text-indent: 0;
