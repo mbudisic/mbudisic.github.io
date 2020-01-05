@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor of Mathematics\n Department of Mathematics"
   location         : "Potsdam, NY"
   employer         : "Clarkson University"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=acUCwOMAAAAJ&hl=en&oi=ao"
   email            : "mbudisic@clarkson.edu"
   researchgate     : "https://www.researchgate.net/profile/Marko_Budisic"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
