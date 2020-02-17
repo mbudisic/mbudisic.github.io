@@ -3,21 +3,20 @@ permalink: /
 title: "Marko Budišić's Research Group"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Applied dynamical systems at Clarkson University. Topics of interest:
+I am an assistant professor in mathematics, with research in nonlinear dynamics.
 
-  - Koopman Mode Decomposition of dynamical systems
-  - transport of material and mixing in ocean flows
-  - braid dynamics: modeling trajectories using braid groups
-  - topological data analysis
-  
-$$\lim_{N\to\infty}\sum_{n=0}^{N-1} [\mathbb{K}^n f](x)$$
-  
-News:
+I teach classes in dynamical systems (ODEs, maps, numerical algorithms), and other mathematical topics.
+
+I additionally serve as the Graduate Committee Chair for the Department of Mathematics.
+
+I was born in Zagreb, Croatia where I lived until 2006. After that, I moved to Santa Barbara, CA, then Madison, WI and now finally to Potsdam, NY.
+
+### News
 
 | Fall 2019 | Teaching MA533 Ordinary Differential Equations and MA321 Advanced calculus|
 | May 2019 | SIAM DS19 Minisymposium Presentation (PDF)|
