@@ -4,20 +4,17 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Team"
+    url: /team/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  - title: "CV"
-    url: https://drive.google.com/file/d/0B7P0MY_u6BYxX1VEWUE2NVF4amc/view?usp=sharing
 
   - title: "Internal Wiki"
     url: https://people.clarkson.edu/~mbudisic/dokuwiki

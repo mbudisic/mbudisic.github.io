@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Marko Budišić"
   avatar           : "marko-portrait-mfo-zoom.jpg"
-  bio              : "Assistant Professor of Mathematics\n Department of Mathematics"
+  bio              : "Assistant Professor of Mathematics"
   location         : "Potsdam, NY"
   employer         : "Clarkson University"
   pubmed           :
@@ -91,6 +91,7 @@ author:
   email            : "mbudisic@clarkson.edu"
   researchgate     : "https://www.researchgate.net/profile/Marko_Budisic"
   uri              :
+  cv               : "https://drive.google.com/file/d/0B7P0MY_u6BYxX1VEWUE2NVF4amc/view?usp=sharing"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -256,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
