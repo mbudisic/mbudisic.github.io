@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in mathematics, with research in nonlinear dynamics.
+I am an assistant professor in mathematics, with research in nonlinear dynamics. At Clarkson, I am affiliated with:
+
+  - [Department of Mathematics](https://www.clarkson.edu/math)
+  - [Clarkson Center for Complex Systems Science](https://www.clarkson.edu/c3s2)
+  - [Institute for STEM Education](https://www.clarkson.edu/stem)
+  - [Institute for Sustainable Environment](https://www.clarkson.edu/ise)
+
 
 I teach classes in dynamical systems (ODEs, maps, numerical algorithms), and other mathematical topics.
 
 I additionally serve as the Graduate Committee Chair for the Department of Mathematics.
 
-I was born in Zagreb, Croatia where I lived until 2006. After that, I moved to Santa Barbara, CA, then Madison, WI and now finally to Potsdam, NY.
+I was born in Zagreb, Croatia where I lived until graduation from [UNIZG-FER](https://www.fer.unizg.hr) in 2006. After that, I moved to Santa Barbara, CA to get my PhD at [UC Santa Barbara](https://me.ucsb.edu), then Madison, WI for a postdoc at [University of Wisconsin, Madison](https://math.wisc.edu) and now finally to Potsdam, NY.
 
 ### News
 
