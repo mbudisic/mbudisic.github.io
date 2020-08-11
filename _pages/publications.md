@@ -6,7 +6,7 @@ author_profile: true
 author.googlescholar: something
 ---
 
-  1. Filippi, Margaux, Marko Budišić, Michael R. Allshouse, Séverine Atis, Jean-Luc Thiffeault, and Thomas Peacock. 2020. “Using Braids to Quantify Interface Growth and Coherence in a Rotor-Oscillator Flow.” Physical Review Fluids 5 (5): 054504. https://doi.org/10.1103/PhysRevFluids.5.054504.
+  1. Filippi, Margaux, Marko Budišić, Michael R. Allshouse, Séverine Atis, Jean-Luc Thiffeault, and Thomas Peacock. 2020. “Using Braids to Quantify Interface Growth and Coherence in a Rotor-Oscillator Flow.” Physical Review Fluids 5 (5): 054504. <https://doi.org/10.1103/PhysRevFluids.5.054504>.
   1. Aref, Hassan, John R. Blake, Marko Budišić, Silvana S.S. Cardoso, Julyan H.E. Cartwright, Herman J.H. Clercx, Kamal El Omari, et al. 2017. “Frontiers of Chaotic Advection.” Reviews of Modern Physics 89 (2): 025007. <https://doi.org/10.1103/RevModPhys.89.025007>.
   1. Budišić, Marko, Stefan Siegmund, Doan Thai Son, and Igor Mezić. 2016. “Mesochronic Classification of Trajectories in Incompressible 3D Vector Fields over Finite Times.” Discrete and Continuous Dynamical Systems - Series S 9 (4): 923–58. <https://doi.org/10.3934/dcdss.2016035>.
   1. Budišić, Marko, and Mihai Putinar. 2016. “Conditioning Moments of Singular Measures for Entropy Maximization II: Numerical Examples.” Modern Trends in Constructive Function Theory, Contemporary Mathematics, 661: 283–97. <https://doi.org/10.1090/conm/661/13288>.
