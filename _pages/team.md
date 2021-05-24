@@ -19,6 +19,12 @@ layout: single
 <https://www.linkedin.com/in/connor-buxton-748103181/>
 {: width="10%"}
 
+## Nipuni De Silva
+![image-left](/images/profile.png){: .align-left width="10%"} Nipuni joined the group in 2021. She is interested in working with data-driven model reduction algorithms
+
+<http://>
+{: width="10%"}
+
 ## Sathsara Dias
 ![image-left](/images/profile.png){: .align-left width="10%"} Sathsara Dias joined the research group in 2018. He works on enhancing geometry optimization in aerodynamic flow through use of dynamic model decomposition and Koopman operator theory.
 
@@ -38,11 +44,6 @@ layout: single
 <http://>
 {: width="10%"}
 
-## Nipuni De Silva
-![image-left](/images/profile.png){: .align-left width="10%"} Nipuni joined the group in 2021. She is interested in working with data-driven model reduction algorithms
-
-<http://>
-{: width="10%"}
 
 # Alumni
 
