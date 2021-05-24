@@ -8,7 +8,7 @@ layout: single
 # Current Members
 
 ## Aishah Albarakati
-![image-left](https://lh5.googleusercontent.com/SgDsktxYBiI_96pzgtUQqToXXsZorxrQh8-a8vH7Pgduv3KBBb5DVTrpn6FefuZnS52rGg=w16383){: .align-left width="10%"} Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
+![image-left](/images/profile.png){: .align-left width="10%"} Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
 
 <https://sites.google.com/clarkson.edu/albaraaa/home>
 {: width="10%"}
@@ -26,22 +26,22 @@ layout: single
 {: width="10%"}
 
 ## Lukas Reynolds
-![image-left](/images/profile.png){: .align-left width="10%"} Sathsara Dias joined Clarkson in 2018.
+![image-left](/images/profile.png){: .align-left width="10%"} Lukas joined the research group in 2018. He works on improving algorithms for manifold learning.
 
-<http://diassl.com>
+<http://>
 {: width="10%"}
 
 
 ## Thevasha Sathiyakumar
-![image-left](/images/profile.png){: .align-left width="10%"} Sathsara Dias joined Clarkson in 2018.
+![image-left](/images/profile.png){: .align-left width="10%"} Thevasha joined the group in 2019. She works on merging statistics and persistent homology, with applications to cancer cell dynamics.
 
-<http://diassl.com>
+<http://>
 {: width="10%"}
 
 ## Nipuni De Silva
-![image-left](/images/profile.png){: .align-left width="10%"} Sathsara Dias joined Clarkson in 2018.
+![image-left](/images/profile.png){: .align-left width="10%"} Nipuni joined the group in 2021. She is interested in working with data-driven model reduction algorithms
 
-<http://diassl.com>
+<http://>
 {: width="10%"}
 
 # Alumni
