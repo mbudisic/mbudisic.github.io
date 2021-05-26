@@ -20,7 +20,7 @@ layout: single
 {: width="10%"}
 
 ## Nipuni De Silva
-![image-left](/images/profile.png){: .align-left width="10%"} Nipuni joined the group in 2021. She is interested in working with data-driven model reduction algorithms
+![image-left](/images/profile.png){: .align-left width="10%"} "I am from Sri Lanka. I like things which are adventures so when I’m not studying I like to travel, read, hang out with my friends. I wish to learn to ski and to go sky diving." Nipuni joined the group in 2021. She is interested in working with data-driven techniques for dynamical systems.
 
 <http://>
 {: width="10%"}
@@ -39,7 +39,7 @@ layout: single
 
 
 ## Thevasha Sathiyakumar
-![image-left](/images/profile.png){: .align-left width="10%"} Thevasha joined the group in 2019. She works on merging statistics and persistent homology, with applications to cancer cell dynamics.
+![image-left](/images/thevasha.jpg){: .align-left width="10%"} "I'm from Srilanka. Along with Math, I have a keen interest in paper art. In leisure time I enjoy in designing quilling miniatures and greeting cards." Thevasha joined the group in 2019. She works on merging statistics and persistent homology, with applications to cancer cell dynamics.
 
 <http://>
 {: width="10%"}
