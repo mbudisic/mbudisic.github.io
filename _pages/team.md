@@ -20,7 +20,7 @@ layout: single
 {: width="10%"}
 
 ## Nipuni De Silva
-![image-left](/images/profile.png){: .align-left width="10%"} "I am from Sri Lanka. I like things which are adventures so when I’m not studying I like to travel, read, hang out with my friends. I wish to learn to ski and to go sky diving." Nipuni joined the group in 2021. She is interested in working with data-driven techniques for dynamical systems.
+![image-left](/images/nipuni.png){: .align-left width="10%"} "I am from Sri Lanka. I like things which are adventures so when I’m not studying I like to travel, read, hang out with my friends. I wish to learn to ski and to go sky diving." Nipuni joined the group in 2021. She is interested in working with data-driven techniques for dynamical systems.
 
 <http://>
 {: width="10%"}
