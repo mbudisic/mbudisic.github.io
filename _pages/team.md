@@ -8,7 +8,9 @@ layout: single
 # Current Members
 
 ## Aishah Albarakati MS'18
-![image-left](/images/profile.png){: .align-left width="10%"} " I am a PhD student at Clarkson University on a full academic scholarship from the Saudi Arabian Cultural Mission (SACM).  I'm proudly a mother of 10 year old daughter and I enjoy doing a lot of activities with her.  She is a figure skater and one of her dream to get an Olympic gold medal.  Even though I am originally from Jeddah which is a large city in Saudi Arabia, I enjoy living in a small town like Potsdam, NY." Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
+![image-left](/images/profile.png){: .align-left width="10%"} *I am a PhD student at Clarkson University on a full academic scholarship from the Saudi Arabian Cultural Mission (SACM).  I'm proudly a mother of 10 year old daughter and I enjoy doing a lot of activities with her.  She is a figure skater and one of her dream to get an Olympic gold medal.  Even though I am originally from Jeddah which is a large city in Saudi Arabia, I enjoy living in a small town like Potsdam, NY.*
+
+Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
 
 <https://sites.google.com/clarkson.edu/albaraaa/home>
 {: width="10%"}
@@ -20,7 +22,9 @@ layout: single
 {: width="10%"}
 
 ## Nipuni De Silva
-![image-left](/images/nipuni.jpg){: .align-left width="10%"} "I am from Sri Lanka. I like things which are adventures so when I’m not studying I like to travel, read, hang out with my friends. I wish to learn to ski and to go sky diving." Nipuni joined the group in 2021. She is interested in working with data-driven techniques for dynamical systems.
+![image-left](/images/nipuni.jpg){: .align-left width="10%"} *I am from Sri Lanka. I like things which are adventures so when I’m not studying I like to travel, read, hang out with my friends. I wish to learn to ski and to go sky diving.*
+
+Nipuni joined the group in 2021. She is interested in working with data-driven techniques for dynamical systems.
 
 <http://>
 {: width="10%"}
@@ -32,14 +36,18 @@ layout: single
 {: width="10%"}
 
 ## Lukas Reynolds MS'20
-![image-left](/images/lukas.png){: .align-left width="10%"} Lukas joined the research group in 2018. He works on improving algorithms for manifold learning. "I enjoy mathematical theory and proof, along with my hobbies of reading, movie watching, and hiking. I've been studying mathematics at Clarkson as both an undergraduate and graduate student, going on for 8+ years. Currently I'm working in the field of applied topology, improving algorithms for manifold learning. I have earned my Master's degree and am currently developing my PhD thesis."
+![image-left](/images/lukas.png){: .align-left width="10%"} *I enjoy mathematical theory and proof, along with my hobbies of reading, movie watching, and hiking. I've been studying mathematics at Clarkson as both an undergraduate and graduate student, going on for 8+ years. Currently I'm working in the field of applied topology, improving algorithms for manifold learning. I have earned my Master's degree and am currently developing my PhD thesis.*
+
+Lukas joined the research group in 2018. He works on improving algorithms for manifold learning.
 
 <http://>
 {: width="10%"}
 
 
 ## Thevasha Sathiyakumar MS'21
-![image-left](/images/thevasha.jpg){: .align-left width="10%"} "I'm from Srilanka. Along with Math, I have a keen interest in paper art. In leisure time I enjoy in designing quilling miniatures and greeting cards." Thevasha joined the group in 2019. She works on merging statistics and persistent homology, with applications to cancer cell dynamics.
+![image-left](/images/thevasha.jpg){: .align-left width="10%"} *I'm from Srilanka. Along with Math, I have a keen interest in paper art. In leisure time I enjoy in designing quilling miniatures and greeting cards.*
+
+Thevasha joined the group in 2019. She works on merging statistics and persistent homology, with applications to cancer cell dynamics.
 
 <http://>
 {: width="10%"}
