@@ -8,7 +8,7 @@ layout: single
 # Current Members
 
 ## Aishah Albarakati MS'18
-![image-left](/images/profile.png){: .align-left width="10%"} Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
+![image-left](/images/profile.png){: .align-left width="10%"} " I am a PhD student at Clarkson University on a full academic scholarship from the Saudi Arabian Cultural Mission (SACM).  I'm proudly a mother of 10 year old daughter and I enjoy doing a lot of activities with her.  She is a figure skater and one of her dream to get an Olympic gold medal.  Even though I am originally from Jeddah which is a large city in Saudi Arabia, I enjoy living in a small town like Potsdam, NY." Aishah joined the research group in 2018. She works on combining data driven model reduction with data assimilation techniques.
 
 <https://sites.google.com/clarkson.edu/albaraaa/home>
 {: width="10%"}
